@@ -1,5 +1,5 @@
   <p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=suicideroom&label=⋈&color=000000&style=plastic&base=1000"> </dir> </p>
-
+  
   <p align="center">ㅤ <img src="https://i.pinimg.com/1200x/a1/57/5f/a1575f1a8fefce7f4986087a62d93cb1.jpg" width=400 height=300>ㅤ</p>
 
   <p align="center"> <sub>ㅤheㅤ/ㅤhimㅤ🦦ㅤsys </sub>   </p>
