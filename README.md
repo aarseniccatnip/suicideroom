@@ -4,6 +4,8 @@
 
   <p align="center"> <sub>ㅤheㅤ/ㅤhimㅤ🦴ㅤsys </sub>   </p>
 
+ <p align="center"> <a href="https://rentry.co/rydean">me and twin ♡</a>
+
 <p align="center" dir="auto"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dnbrq33dernxlkwbvsoee7w6py&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f4f2ec&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" height="40" width="150"> </p>
 
 <div align="center" dir="auto">
