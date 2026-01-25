@@ -1,8 +1,6 @@
   <p align="center"> <dir="auto"> <img src="https://komarev.com/ghpvc/?username=suicideroom&label=⋈&color=000000&style=plastic&base=1000"> </dir> </p>
   
-  <p align="center">ㅤ <img src="https://i.pinimg.com/736x/52/53/4f/52534f46e0ea8fa9a6caa4bad11404ba.jpg" width=400 height=600>ㅤ</p>
-
-  <p align="center"> <sub>ㅤwe war-ready i see u very clear, let ur brain leak out of ur ears </sub>   </p>
+  <p align="center">ㅤ <img src="https://i.pinimg.com/1200x/fe/b7/8f/feb78f3bd9600a9fcb9abfe93edc995f.jpg" width=400 height=600>ㅤ</p>
 
  <p align="center"> <a href="https://rentry.co/rydean">♡</a>
 
@@ -16,6 +14,6 @@
 <br>
   <sub> i block freely idgaf!!!!!! </sub>
 
-  <img src=>
+  <img src="https://64.media.tumblr.com/6090008171986ca65732b1248ae7b2d3/7d5db8110b6d7db9-df/s1280x1920/0efbe166cad44fdd5013b55b61583620fd8353df.pnj" width=200 height=300>
     
 
